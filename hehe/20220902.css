@@ -2,30 +2,32 @@
     color: palevioletred;
     font-size: 37px;
     font-weight: 600;
-    margin-inline-start: 20px;
+    margin-inline-start: 60px;
 }
 #id2{
     color:dimgray;
     font-style: italic;
     font-size: 16px;
     font: 600;
-    margin-inline-start: 20px;
+    margin-inline-start: 60px;
 }
 img{
     width: 640px;
     border-top-left-radius: 10%;
     border-bottom-right-radius: 10%;
-    margin-inline-start: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p{
     color: dimgray;
-    inline-size: 650px;
-    margin-inline-start: 20px;
+    margin-inline-end: 40px;
+    margin-inline-start: 40px;
     text-align: justify;
 }
 #id3{
     color:palevioletred;
     font-size: 20px;
-    margin-inline-start: 20px;
+    margin-inline-start: 40px;
 }
