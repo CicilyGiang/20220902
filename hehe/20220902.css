@@ -2,24 +2,29 @@
     color: palevioletred;
     font-size: 50px;
     font-weight: 600;
+    margin-inline-start: 20px;
 }
 #id2{
     color:dimgray;
     font-style: italic;
     font-size: 20px;
     font: 600;
+    margin-inline-start: 20px;
 }
 img{
     width: 800px;
     border-top-left-radius: 10%;
     border-bottom-right-radius: 10%;
+    margin-inline-start: 20px;
 }
 
 p{
     color: dimgray;
-    margin-right: 700px;
+    margin-inline: 700px;
+    margin-inline-start: 20px;
 }
 #id3{
     color:palevioletred;
     font-size: 20px;
+    margin-inline-start: 20px;
 }
