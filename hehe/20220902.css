@@ -20,7 +20,7 @@ img{
 
 p{
     color: dimgray;
-    margin-inline: 820px;
+    scroll-margin-inline: 800px;
     margin-inline-start: 20px;
 }
 #id3{
