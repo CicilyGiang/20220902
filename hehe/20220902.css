@@ -1,0 +1,21 @@
+#id1{
+    color: palevioletred;
+    font-size: 50px;
+    font-weight: 600;
+}
+#id2{
+    color:dimgray;
+    font-style: italic;
+    font-size: 20px;
+    font: 600;
+}
+img{
+    width: 800px;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+p{
+    color: dimgray;
+    margin-right: 700px;
+}

@@ -1,0 +1,17 @@
+#id1{color: palevioletred;}
+.class1{font-size: 50px;}
+h1{font-style: oblique;}
+
+.class2,.class3{
+    color: red;
+    font-size: 32px;
+}
+h1,h2{
+    color: red;
+    font-size: 32px;
+}
+
+div{
+    color: plum;
+    font-size: 30px;
+}
