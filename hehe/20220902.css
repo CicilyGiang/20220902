@@ -1,6 +1,6 @@
 #id1{
     color: palevioletred;
-    font-size: 40px;
+    font-size: 37px;
     font-weight: 600;
     margin-inline-start: 20px;
 }
@@ -20,8 +20,9 @@ img{
 
 p{
     color: dimgray;
-    scroll-margin-inline: 650px;
+    inline-size: 650px;
     margin-inline-start: 20px;
+    text-align: justify;
 }
 #id3{
     color:palevioletred;
